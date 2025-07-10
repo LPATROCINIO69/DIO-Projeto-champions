@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Flamengo" },
+  { "id": 2, "name": "Palmeiras" },
+  { "id": 3, "name": "São Paulo" },
+  { "id": 4, "name": "Corinthians" },
+  { "id": 5, "name": "Santos" },
+  { "id": 6, "name": "Grêmio" },
+  { "id": 7, "name": "Internacional" },
+  { "id": 8, "name": "Atlético Mineiro" },
+  { "id": 9, "name": "Cruzeiro" },
+  { "id": 10, "name": "Botafogo" },
+  { "id": 11, "name": "Vasco da Gama" },
+  { "id": 12, "name": "Fluminense" },
+  { "id": 13, "name": "Athletico Paranaense" },
+  { "id": 14, "name": "Coritiba" },
+  { "id": 15, "name": "Bahia" },
+  { "id": 16, "name": "Fortaleza" },
+  { "id": 17, "name": "Ceará" },
+  { "id": 18, "name": "Goiás" },
+  { "id": 19, "name": "Chapecoense" },
+  { "id": 20, "name": "América Mineiro" }
+]
